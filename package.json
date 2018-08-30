@@ -1,0 +1,21 @@
+{
+  "name": "paperlize",
+  "version": "1.0.0",
+  "description": "Paperlize, a CSS Framework based on Material Design with few cool tweaks.",
+  "main": "dist/js/paperlize.js",
+  "style": "dist/css/paperlize.css",
+  "sass": "sass/paperlize.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRFR0ST/Paperlize.git"
+  },
+  "author": "Mike Eling <mike.eling97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DRFR0ST/Paperlize/issues"
+  },
+  "homepage": "https://github.com/DRFR0ST/Paperlize#readme"
+}
