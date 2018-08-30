@@ -6,11 +6,15 @@
   "style": "dist/css/paperlize.css",
   "sass": "sass/paperlize.scss",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DRFR0ST/Paperlize.git"
+  },
+  "dependencies": {
+    "node-sass": "^4.5.3"
   },
   "author": "Mike Eling <mike.eling97@gmail.com>",
   "license": "MIT",
